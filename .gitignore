@@ -53,6 +53,9 @@ tsconfig.tsbuildinfo
 # Optional npm cache directory
 .npm
 
+# Yarn lock files
+yarn.lock
+
 # Optional eslint cache
 .eslintcache
 
