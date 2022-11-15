@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Looks Great 1`] = `
+<DocumentFragment>
+  <nav>
+    Platform Starter
+    <a
+      href="/login"
+    >
+      Login
+    </a>
+  </nav>
+</DocumentFragment>
+`;
